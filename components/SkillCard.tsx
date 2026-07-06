@@ -1,0 +1,23 @@
+interface SkillCardProps {
+  title: string;
+  skills: string[];
+}
+
+export default function SkillCard({
+  title,
+  skills,
+}: SkillCardProps) {
+  return (
+    <section className="bg-white shadow-md rounded-lg p-6">
+      <h2 className="text-2xl font-bold text-green-700 mb-4">
+        {title}
+      </h2>
+
+      <ul className="list-disc list-inside space-y-2 text-gray-700">
+        {skills.map((skill) => (
+          <li key={skill}>{skill}</li>
+        ))}
+      </ul>
+    </section>
+  );
+}
