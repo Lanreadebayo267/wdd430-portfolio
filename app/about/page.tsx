@@ -9,7 +9,7 @@ export default function About() {
 
       <p className="text-lg text-gray-700 mb-8">
         Hello! I am Lanre Adebayo, a software developer and BYU-Idaho student who enjoys
-        building responsive web applications. I'm currently learning React,
+        building responsive web applications. I am currently learning React,
         Next.js, TypeScript, and full-stack web development.
       </p>
 
