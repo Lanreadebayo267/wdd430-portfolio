@@ -2,18 +2,18 @@ import ProjectList from "@/components/ProjectList";
 
 const projects = [
   {
-    title: "NaijaExplorer",
+    title: "StyleJenich Fashion",
     description:
-      "A responsive tourism website showcasing beautiful destinations across Nigeria.",
+      "A responsive fashion website showcasing stylish clothing and accessories.",
     technologies: ["HTML", "CSS", "JavaScript"],
-    link: "https://github.com/Lanreadebayo267/naijaexplorer",
+    link: "https://github.com/Lanreadebayo267/practice-codes",
   },
   {
-    title: "Expense Tracker",
+    title: "CSE Motors",
     description:
-      "A Next.js application for tracking daily income and expenses with a clean dashboard.",
-    technologies: ["Next.js", "TypeScript", "Tailwind CSS"],
-    link: "https://github.com/Lanreadebayo267/expense-tracker",
+      "A JavaScript project for a car dealership website with interactive features.",
+    technologies: ["Node.js", "JavaScript", "CSS"],
+    link: "https://github.com/Lanreadebayo267/cse340-projects",
   },
 ];
 
