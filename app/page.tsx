@@ -15,6 +15,41 @@ const projects = [
     technologies: ["Node.js", "JavaScript", "CSS"],
     link: "https://github.com/Lanreadebayo267/cse340-projects",
   },
+  {
+    title: "SleepOutside",
+    description:
+      "A camping gear website with a focus on outdoor adventures.",
+    technologies: ["HTML", "JavaScript", "CSS"],
+    link: "https://github.com/Lanreadebayo267/wdd330-sleepoutside",
+  },
+  {
+    title: "NaijaExplorer",
+    description:
+      "A travel website highlighting popular destinations in Nigeria.",
+    technologies: ["HTML", "CSS", "JavaScript"],
+    link: "https://github.com/Lanreadebayo267/wdd131",
+  },
+  {
+    title: "Lagos Chamber of Commerce",
+    description:
+      "A website for the Lagos Chamber of Commerce, providing information and resources for businesses.",
+    technologies: ["HTML", "CSS", "JavaScript"],
+    link: "https://github.com/Lanreadebayo267/wdd231",
+  },
+  {
+    title: "White Water Rafting",
+    description:
+      "A website for a white water rafting company, showcasing their services and adventures.",
+    technologies: ["HTML", "CSS", "JavaScript"],
+    link: "https://github.com/Lanreadebayo267/wdd130",
+  },
+  {
+    title: "BookVerse API",
+    description:
+      "A RESTful API for managing a collection of books, built with Node.js and Express.",
+    technologies: ["Node.js", "Express", "MongoDB"],
+    link: "https://github.com/ericayanru-dev/bookverse-api",
+  },
 ];
 
 export default function Home() {
